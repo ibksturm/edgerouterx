@@ -1,4 +1,4 @@
-# pimping edgerouterx
+# pimping Ubiquiti EdgeRouter X with openwrt
 
 As i started with ibksturm.synology.me short after i realised, that my standart network hardware was to slow. so i buyed me a Ubiquiti EdgeRouter X (ER-X) (*1). But Preinstalled software was'n to use as i hade to do
 
